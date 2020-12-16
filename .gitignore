@@ -1,0 +1,17 @@
+
+# Visual studio
+*.vs
+*.csproj.user
+Ois.Service/packages/
+
+
+# Bin, obj
+Ois.Service/Ois.Data/bin/
+Ois.Service/Ois.Data/obj/
+Ois.Service/Ois.Service/bin/
+Ois.Service/Ois.Service/obj/
+
+
+# Temporary files
+*~
+
